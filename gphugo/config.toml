@@ -1,6 +1,6 @@
-baseURL = "https://ryanjbartley.github.io/gphugo/"
+baseURL = "https://ryanjbartley.github.io/storefront/"
 languageCode = "en-us"
-title = "Gitpod Hugo Pipeline Development Blog"
+title = "Storefront Development Landing Page"
 theme = "ananke"
 
 DefaultContentLanguage = "en"
@@ -17,7 +17,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "A blog while I work"
+  description = "An embedded square storefront"
   facebook = "https://www.facebook.com/ryanjbartley"
   twitter = "https://twitter.com/RyanJBartley"
   instagram = "https://www.instagram.com/ryanjbartley/"
