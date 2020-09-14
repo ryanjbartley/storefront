@@ -35,7 +35,3 @@ fields:
     required: false
   label: Description
   description: A description of the post
-pages:
-- gphugo/content/post/labor-day.md
-- gphugo/content/post/my-first-live-post-sort-of.md
-- gphugo/content/post/the-future-of-blogging.md
