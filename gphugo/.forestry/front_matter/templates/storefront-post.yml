@@ -31,3 +31,5 @@ fields:
   default: []
   label: Categories
   description: A list of categories that can help find this post
+pages:
+- gphugo/content/posts/a-quick-first-post.md
