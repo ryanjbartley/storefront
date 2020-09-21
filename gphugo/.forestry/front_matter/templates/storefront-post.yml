@@ -20,3 +20,14 @@ fields:
   description: The date you're writing this. Post-dating this field may prevent automatic
     publishing
   default: now
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+  description: A description of the content
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+  description: A list of categories that can help find this post
