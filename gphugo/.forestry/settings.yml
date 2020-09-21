@@ -15,7 +15,7 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-  exclude: gphugo/content/posts
+  exclude: posts
 upload_dir: gphugo/static/images
 public_path: "/gphugo/images"
 front_matter_path: ''
