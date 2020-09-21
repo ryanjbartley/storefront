@@ -9,3 +9,14 @@ fields:
   label: Title
   description: A title for the post
   default: I should have titled this post in Forestry.io
+- name: date
+  type: datetime
+  label: Date
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  description: The date you're writing this. Post-dating this field may prevent automatic
+    publishing
+  default: now
