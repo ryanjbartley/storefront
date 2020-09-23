@@ -8,4 +8,4 @@ title = "This is a real thing you can actually buy"
 +++
 If all is well, there is a square buy link here:
 
-{{< square [https://checkout.square.site/buy/MP22XB7LH4BWZKZDONB3S7UW](https://checkout.square.site/buy/MP22XB7LH4BWZKZDONB3S7UW "https://checkout.square.site/buy/MP22XB7LH4BWZKZDONB3S7UW") >}}
+{{< square "[https://checkout.square.site/buy/MP22XB7LH4BWZKZDONB3S7UW](https://checkout.square.site/buy/MP22XB7LH4BWZKZDONB3S7UW "https://checkout.square.site/buy/MP22XB7LH4BWZKZDONB3S7UW")" >}}
