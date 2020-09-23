@@ -33,3 +33,4 @@ fields:
   description: A list of categories that can help find this post
 pages:
 - gphugo/content/posts/a-quick-first-post.md
+- gphugo/content/posts/this-is-a-real-thing-you-can-actually-buy.md
